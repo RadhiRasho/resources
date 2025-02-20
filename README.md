@@ -12,3 +12,5 @@ List of useful resources I've found throughout the web
 - [Ray.so](https://ray.so) - Niffty Tools
 
 - [Dev Utilities](https://jam.dev/utilities) - Formaters, Encoders, and  more.
+
+- [Uses Pages](https://uses.tech) - Peoples configs and technologies they use. 
