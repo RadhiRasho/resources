@@ -1,8 +1,9 @@
 # resources
+
 List of useful resources I've found throughout the web
 
+## Web
 
-# Web 
 - [Icons](https://icones.js.org)
 
 - [Fancy Effect](https://www.fancycomponents.dev/)
@@ -13,4 +14,8 @@ List of useful resources I've found throughout the web
 
 - [Dev Utilities](https://jam.dev/utilities) - Formaters, Encoders, and  more.
 
-- [Uses Pages](https://uses.tech) - Peoples configs and technologies they use. 
+- [Uses Pages](https://uses.tech) - Peoples configs and technologies they use.
+
+## Converters
+
+- [Pandoc](https://pandoc.org) - Universal document converter
